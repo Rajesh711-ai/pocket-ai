@@ -1,0 +1,6 @@
+{
+  "name": "Pocket AI",
+  "description": "Secure Offline Login System featuring local Face, Voice, Password, and PIN authentication with an offline AI assistant, secure vault, OCR, and voice transcription.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

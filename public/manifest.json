@@ -1,0 +1,24 @@
+{
+  "name": "Pocket AI - Secure Personal Vault",
+  "short_name": "Pocket AI",
+  "description": "Secure Offline Login System featuring local Face, Voice, Password, and PIN authentication with an offline AI assistant, secure vault, OCR, and voice transcription.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/pocketai/192/192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://picsum.photos/seed/pocketai/512/512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
